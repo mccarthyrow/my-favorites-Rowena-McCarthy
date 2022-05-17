@@ -1,0 +1,66 @@
+html {
+    background-color: cadetblue
+}
+
+.allfavorites {
+    background-color: navy;
+    font-family: helvetica;
+    color: white;
+    font-size: 45px;
+    margin-right: 190px;
+    padding-left: 400px;
+}
+
+.lists {
+    background-color: rgb(255, 255, 128);
+    margin-right: 190px;
+    font-size: 25px;
+    font-family: Verdana;
+    padding-left: 100px;
+    color: rgb(105, 22, 238)
+}
+
+#places {
+    color: green;
+    font-size: x-large;
+    padding-left: 130px;
+}
+
+#sreleiver {
+    color: rgb(255, 25, 22);
+    font-size: x-large;
+    padding-left: 130px;
+}
+
+.pictures {
+    background-color: skyblue;
+    margin-right: 190px;
+    font-family: Verdana;
+    padding-left: 100px;
+    color: brown
+}
+
+h3 {
+    position: relative;
+    left: 230px;
+    color: rgb(0, 42, 255);
+}
+
+#shitsu {
+    position: relative;
+    left: 70px;
+}
+
+h4 {
+    position: relative;
+    left: 720px;
+    bottom: 660px;
+    color: rgb(0, 42, 255);
+    font-size: large;
+}
+
+#hallstatmountain {
+    position: relative;
+    left: 500px;
+    bottom: 670px;
+}
